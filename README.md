@@ -9,16 +9,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Screenshot
-
+###Mobile
 ![Mobile](/design/mobile-design.jpg)
+###Desktop
 ![Desktop](/design/desktop-design.jpg)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-O9amPJNyeS)
+- Live Site URL: [Add live site URL here](https://reliable-dodol-30d529.netlify.app/)
 
 
 
