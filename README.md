@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/3column-preview-card-component-solution-zzEVBKHeQ6
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-O9amPJNyeS
 - Live Site URL: https://reliable-dodol-30d529.netlify.app/
 
 
